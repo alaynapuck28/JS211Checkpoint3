@@ -28,7 +28,7 @@ I'd like to try to use ReactJS
 I might need a database for users to login and store goal info
 I might use a Strava API or NikeRun Club API
 
-### Questions do YOU have about your app?
+### Questions
 - What is a good MVP (minumum viable product)
 - What should  I keep in mind if trying to use API?
 - Any helpful resources to checkout? 
