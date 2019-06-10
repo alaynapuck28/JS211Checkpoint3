@@ -1,7 +1,7 @@
 # JS211Checkpoint3 
 
 App Idea: Critter (?) Working title
-Running Goal App
+- Running Goal App
 
 People need to stay motivated to go on runs and reach running goals:
 
